@@ -6,4 +6,4 @@ Author - <br>
 <br>
 CSE-33rd, Varendra University 
 <br>
-Rajshahi, Bangladesh
+khorkhori, Rajshahi, Bangladesh
